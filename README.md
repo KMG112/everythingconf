@@ -2,6 +2,8 @@
 2. Show an example
 3. Reference documentation or tutorials on AWS S3 to store file uploads
 
+<h1> SIMPLE STORAGE SERVICE</h1>
+
 <h1>EXPLAIN!</h1>
 
 <h2>Write down keys in Figaro</h2>

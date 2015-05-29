@@ -40,6 +40,6 @@ S3_BUCKET =  AWS::S3.new.buckets[ENV['S3_BUCKET']]
     )#writes item to AWS bucket
  ```
 
-<a href="https://github.com/aws/aws-sdk-ruby"> AWS_SDK docs</a>
+<a href="https://github.com/aws/aws-sdk-ruby"> AWS_SDK docs</a><br>
 <a href="https://s3.amazonaws.com/mashpic/collage.png"> Accessing a file</a>
 

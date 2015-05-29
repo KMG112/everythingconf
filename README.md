@@ -41,3 +41,5 @@ S3_BUCKET =  AWS::S3.new.buckets[ENV['S3_BUCKET']]
  ```
 
 <a href="https://github.com/aws/aws-sdk-ruby"> AWS_SDK docs</a>
+<a href="https://s3.amazonaws.com/mashpic/collage.png"> Accessing a file</a>
+
